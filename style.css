@@ -1,10 +1,3 @@
-.{
-    margin:0;
-    padding:0;
-    font-family:sans-serif,'popping';
-    box-sizing:border-box;
-
-}
 body.login-page{
     justify-self: center;
     display:flex;
@@ -185,7 +178,7 @@ padding: 200px;
             }
 .create-account:hover{
     background-color: antiquewhite;
-    transition-scale: (0);
+    transition:scale(0);
     border-color:pink;
 }
 .form{
@@ -325,7 +318,8 @@ button{
 
 }
 .picture1 img:hover{
-background-color:whitesmoke
+background-color:white
+(235, 230, 230)
 
 }
 .house-info{
